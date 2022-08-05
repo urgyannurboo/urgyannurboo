@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @urgyannurboo
 - 👀 I’m interested in Web Development and Competitive Programming
-- 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on Front End Projects as well as Backend Projects
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Javascript.
+- 💞️ I’m looking to collaborate on Front End Projects.
 
 <!---
 urgyannurboo/urgyannurboo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
