@@ -38,16 +38,16 @@ Welcome to my GitHub profile! I'm a passionate Software Developer with a strong 
 ---
 
 ## 💬 Let's Connect
-- 📫 **Email**: urgyaannurboo@example.com
+- 📫 **Email**: unurboo@gmail.com
 - 💼 **LinkedIn**: [linkedin.com/in/urgyan-nurboo][https://www.linkedin.com/in/urgyan-n-666a0213b/]
 - 🌐 **Portfolio**: [urgyaannurboo.github.io](https://urgyaannurboo.github.io) *(if applicable)*
 
 ---
 
 ## 📊 GitHub Stats
-![Urgyan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+![Urgyan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=urgyannurboo&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=urgyannurboo&layout=compact&theme=radical)
 
 ---
 
