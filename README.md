@@ -39,8 +39,8 @@ Welcome to my GitHub profile! I'm a passionate Software Developer with a strong 
 
 ## 💬 Let's Connect
 - 📫 **Email**: unurboo@gmail.com
-- 💼 **LinkedIn**: [linkedin.com/in/urgyan-nurboo][https://www.linkedin.com/in/urgyan-n-666a0213b/]
-- 🌐 **Portfolio**: [urgyaannurboo.github.io]([https://urgyaannurboo.github.io](https://urgyannurbooportfolio.netlify.app/))
+- 💼 **LinkedIn**: https://www.linkedin.com/in/urgyan-n-666a0213b/
+- 🌐 **Portfolio**: https://urgyaannurboo.github.io](https://urgyannurbooportfolio.netlify.app/
 
 ---
 
