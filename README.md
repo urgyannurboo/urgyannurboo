@@ -8,7 +8,8 @@ Welcome to my GitHub profile! I'm a passionate Software Developer with a strong 
 - 🎓 **Education**: Graduate in Information Technology from IIIT Allahabad (2024).
 - 💼 **Aspiring SDE**: Dedicated to mastering software engineering principles and contributing to impactful projects.
 - 🏡 **Hometown**: Pachikhar, a serene village in Kargil district, Ladakh.
-- 🛠️ **Technical Skills**: C, C++, Python, MySQL, PHP, HTML, CSS, JavaScript, Bootstrap, React.js.
+- 🛠️ **Languages and Database**: C, C++, Java, Python and MySQL.
+- 🛠️ **Web Technologies and Tools**: HTML, CSS, JavaScript, React.js, Node.js, Bootstrap, Git, Matlab.
 - 💡 **Soft Skills**: Problem-solving, collaboration, time management, and adaptability.
 
 ---
