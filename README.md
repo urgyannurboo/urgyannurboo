@@ -20,7 +20,7 @@ Welcome to my GitHub profile! I'm a passionate Software Developer with a strong 
 
 - **[N-Queens Puzzle Solver Visualizer][https://github.com/urgyannurboo/N_Queen_Visualizer]**: An interactive web-based solution built using HTML, CSS, and JavaScript to visualize the famous N-Queens problem.
 
--- **[My_Portfolio_Website][https://github.com/urgyannurboo/my-portfolio]**: This is a static website, displaying information about myself, my projects, and ways to contact me. This website was built with React and plain CSS
+- **[My_Portfolio_Website][https://github.com/urgyannurboo/my-portfolio]**: This is a static website, displaying information about myself, my projects, and ways to contact me. This website was built with React and plain CSS
 
 ### 📈 Competitive Programming
 - Solved over **800+ problems** on platforms like LeetCode, Codeforces, and HackerRank, honing my logical and analytical skills.
